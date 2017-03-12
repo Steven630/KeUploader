@@ -2,7 +2,7 @@
 
 ## Upload KindleEar in 4 Steps
 
-__1.Open cloud shell__
+__1.Open cloud shell__ https://console.cloud.google.com/home/dashboard
 
 ![img](img/1.png)
 
